@@ -15,7 +15,7 @@ function agregarAmigo() {
     actualizarLista();
 
     inputAmigo.value = "";
-    inputAmigo.focus();
+    inputAmigo.focus(); 
 
 
 }
